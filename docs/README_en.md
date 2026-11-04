@@ -22,7 +22,7 @@ A Clash Meta GUI built with <a href="https://github.com/tauri-apps/tauri">Tauri<
 </p>
 
 > [!NOTE]
-> This repository is a **personal build** of [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev), customized for my own usage needs. Upstream changes are synced periodically, but the added features and overall stability are verified and maintained by me alone. It is not an official release, so please do not report issues with this build upstream.
+> This repository is a **personal build** of [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev), modified on 2026-11-04 for my own usage needs. Upstream changes are synced periodically, but the added features and overall stability are verified and maintained by me alone. It is not an official release, so please do not report issues with this build upstream.
 
 ## Added in This Build
 

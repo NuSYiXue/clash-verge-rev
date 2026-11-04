@@ -22,7 +22,7 @@ Una interfaz gráfica para Clash Meta construida con <a href="https://github.com
 </p>
 
 > [!NOTE]
-> Este repositorio es una **compilación personal** de [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev), adaptada a mis propias necesidades de uso. Los cambios del proyecto original se sincronizan periódicamente, pero las funciones añadidas y la estabilidad general corren por mi cuenta. No es una versión oficial, así que no informes de problemas de esta compilación al proyecto original.
+> Este repositorio es una **compilación personal** de [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev), modificada el 2026-11-04 para mis propias necesidades de uso. Los cambios del proyecto original se sincronizan periódicamente, pero las funciones añadidas y la estabilidad general corren por mi cuenta. No es una versión oficial, así que no informes de problemas de esta compilación al proyecto original.
 
 ## Añadido en esta compilación
 

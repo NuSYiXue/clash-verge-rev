@@ -22,7 +22,7 @@ A Clash Meta GUI based on <a href="https://github.com/tauri-apps/tauri">Tauri</a
 </p>
 
 > [!NOTE]
-> 本项目是基于上游 [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 维护的**个人修改版**，所有改动均源于我自己的使用需求。上游代码会定期同步，但新增功能与整体稳定性由我自行验证和维护。它不是官方发行版本，相关问题请不要反馈给上游项目。
+> 本项目是基于上游 [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 维护的**个人修改版**（修改日期：2026-11-04），所有改动均源于我自己的使用需求。上游代码会定期同步，但新增功能与整体稳定性由我自行验证和维护。它不是官方发行版本，相关问题请不要反馈给上游项目。
 
 ## 本版新增功能
 
