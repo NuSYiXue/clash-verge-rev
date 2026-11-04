@@ -21,6 +21,13 @@ A Clash Meta GUI built with <a href="https://github.com/tauri-apps/tauri">Tauri<
   <a href="../README.md">简体中文</a>
 </p>
 
+> [!NOTE]
+> This repository is a **personal build** of [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev), customized for my own usage needs. Upstream changes are synced periodically, but the added features and overall stability are verified and maintained by me alone. It is not an official release, so please do not report issues with this build upstream.
+
+## Added in This Build
+
+- **Wi-Fi Hotspot Sharing** (Windows only): turns the TUN uplink into a Wi-Fi hotspot so phones and other devices can share the proxied connection (requires TUN mode).
+
 ## Preview
 
 | Dark                                | Light                                 |

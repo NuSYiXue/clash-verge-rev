@@ -21,6 +21,13 @@ A Clash Meta GUI based on <a href="https://github.com/tauri-apps/tauri">Tauri</a
   <a href="./README.md">简体中文</a>
 </p>
 
+> [!NOTE]
+> 本项目是基于上游 [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) 维护的**个人修改版**，所有改动均源于我自己的使用需求。上游代码会定期同步，但新增功能与整体稳定性由我自行验证和维护。它不是官方发行版本，相关问题请不要反馈给上游项目。
+
+## 本版新增功能
+
+- **Wi-Fi 热点共享**（仅 Windows）：把 TUN 出口转为 Wi-Fi 热点，供手机等设备共享代理网络（需先启用 TUN 模式）。
+
 ## Preview
 
 | Dark                             | Light                             |

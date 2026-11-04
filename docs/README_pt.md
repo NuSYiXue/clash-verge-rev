@@ -21,6 +21,13 @@ Uma interface gráfica para o Clash Meta construída com <a href="https://github
   <a href="../README.md">简体中文</a>
 </p>
 
+> [!NOTE]
+> Este repositório é uma **compilação pessoal** do [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev), adaptada às minhas próprias necessidades de uso. As alterações do projeto original são sincronizadas periodicamente, mas os recursos adicionados e a estabilidade geral são verificados e mantidos apenas por mim. Não é uma versão oficial, portanto não reporte problemas desta compilação ao projeto original.
+
+## Adicionado nesta compilação
+
+- **Compartilhamento por Wi-Fi** (somente Windows): transforma a saída TUN em um ponto de acesso Wi-Fi para que celulares e outros dispositivos compartilhem a conexão proxy (requer o modo TUN).
+
 ## Pré-visualização
 
 | Escuro                                 | Claro                                  |
